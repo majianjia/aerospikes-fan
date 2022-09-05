@@ -2,7 +2,7 @@
 
 A bladeless fan powered by Bambu Lab X1 toolhead turbo. 
 
-![model-fan-animation2.gif](figures\model-fan-animation2.gif)
+![model-fan-animation2.gif](figures/model-fan-animation2.gif)
 
 ## What is aerospike
 
@@ -36,7 +36,7 @@ The answer is, no it isnt.
 
 ## Design
 
-![model-digrams.png](figures\model-digrams.png)
+![model-digrams.png](figures/model-digrams.png)
 
 ## 
 

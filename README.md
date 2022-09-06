@@ -16,7 +16,7 @@ Same as a regular "bladeless fan", this aerospike fan uses below principle to mo
 
 The difference is that the aerospike can generate a narrow and high velocity stream of air, but the regular bladeless is focus on moving large volume of air. 
 
-However, aerospike nozzle is for hypersonic airflow which normally seem in jet engine and rocket engine to adapt wide range of atmosphere pressure (altitude). It can maintain high efficiency because the half of the engine nozzle is the external atmosphere pressure, so the exhaust expansion rate is compensated automatically. 
+However, aerospike nozzle is for hypersonic airflow which normally seen in jet engine and rocket engine to adapt wide range of atmosphere pressure (altitude). It can maintain high efficiency because the half of the engine nozzle is the external atmosphere pressure, so the exhaust expansion rate is compensated automatically. 
 
 **How it is benefitial to the fan?**
 

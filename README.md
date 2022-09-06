@@ -4,9 +4,6 @@ A bladeless fan powered by Bambu Lab X1 toolhead turbo.
 
 ![model-fan-animation2.gif](figures/model-fan-animation2.gif)
 
-## What is aerospike
-
-Or to be specific, what is aerospike nozzle? 
 
 ## Principle
 
@@ -46,8 +43,8 @@ The core of the fan is powered by the tool head fan of [Bambu Lab X1C](https://b
 ### Compressor
 Compressor is the key for creating high pressure zone. The compressor is consist of a ring of static blades. 
 
-While the fan accelerate the air to high velocity, the fan has convert its kenetic the energy to the air. 
-The stator is the converter to convert the high speed airflow to pressure. 
+The fans converts its kenetic the energy to the surrending air by accelerating the air velocity. 
+Then, the stator stops the air flow and converting the kenetic energy back to protential energy, increased pressure. 
 
 While high speed air flow into the compressor, it goes through a expension channel, with the direction change dramaticlly. The velocity will drop while the pressure increased dramaticlly. 
 
@@ -65,4 +62,8 @@ During this channel, pressure decreased while air speed increase dramaticlly.
 
 Now we have a ring of thin high velocity flow, but the ring of low doesnt go far unless it can its energy to the surrounding air. Where the aerospike nozzle come into place. 
 
-The thin airflow follow the surface of aerospike nozzle because of Bernoulli's principle, while the ring is getting smaller. 
+The thin airflow follow the surface of aerospike nozzle because of Bernoulli's principle.
+The ring is getting smaller and smaller near the tips of aerospike, then the air got a second velocity boost. 
+
+
+

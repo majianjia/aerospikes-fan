@@ -62,8 +62,18 @@ During this channel, pressure decreased while air speed increase dramaticlly.
 
 Now we have a ring of thin high velocity flow, but the ring of low doesnt go far unless it can its energy to the surrounding air. Where the aerospike nozzle come into place. 
 
-The thin airflow follow the surface of aerospike nozzle because of Bernoulli's principle.
-The ring is getting smaller and smaller near the tips of aerospike, then the air got a second velocity boost. 
+The thin airflow follows the surface of aerospike nozzle because of Bernoulli's principle.
+The ring is getting smaller and smaller near the tips of aerospike, then the air got a second velocity boost, finally result in a single high velocity stream. 
+
+## What could be wrong
+
+There are many things can go wrong. 
+A steady and thin air flow, following the aerospike nozzle are the essencial factors to construct the high velocity stream, or lower the efficiency.
+
+- Unstable air flow caused by surging or turbulance.
+- Flow separating from nozzle. 
+- The size of nozzole.
+- The ratio of air volume and pressure. 
 
 
 

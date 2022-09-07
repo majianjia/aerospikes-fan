@@ -19,9 +19,9 @@ However, aerospike nozzle is for hypersonic airflow which normally seen in jet e
 
 The answer is, no it isnt. 
 
-1. The fan is working in sea level i.e. my desktop..and never changed. The exhaut isnt heated up, so it wont expand. The adaptability of aerospike nozzle has no effect here.
+1. The fan is only be used at sea level i.e. my desktop..and never changed. The exhaut isnt heated up, so it wont expand. The adaptability of aerospike nozzle has no effect here.
 
-2. A single high velocity stream can move less air than a regular bladeless fan. 
+2. A single high velocity stream can move less air than a regular bladeless fan, make it feel weaker than other fans. 
 
 3. The small area of the spike also means that it wont be able to suck enough air. 
 4. Possible noise. 

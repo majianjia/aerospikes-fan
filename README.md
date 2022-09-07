@@ -32,6 +32,7 @@ The answer is, no it isnt.
 
 2. Air flow is invisible, not sure how hard is it to keep the exhaust air flow steady.
 
+
 ## Design and Simulation
 
 ![model-digrams.png](figures/model-digrams.png)
@@ -74,6 +75,18 @@ A steady and thin air flow, following the aerospike nozzle are the essencial fac
 - Flow separating from nozzle. 
 - The size of nozzole.
 - The ratio of air volume and pressure. 
+
+
+### Flow separation too early
+I dont know exact reason of the flow seperate before the tip of aerpsike, it looks like relate to the thikness of the exhause air ring and the velocity of exhaust air flow. But the early seperation slow down the air around the tip and eliminate the second speed boost. It also create a bubble of turbulance around the tip which expend the ring of the high velocity flow instead of merge. 
+
+### 
+
+
+
+
+
+
 
 
 

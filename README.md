@@ -40,7 +40,7 @@ The answer is, no it isn't.
 
 The core of the fan is powered by the tool head fan of [Bambu Lab X1C](https://bambulab.com/) 3d printer. It is a 5015 fan (5CM x 1.5 CM), rated at 24V 0.15A, quite a powerful fan. The centrifugal fan has 33 blades (if i counted that correctly.)
 
-![photo-fan.jpg](figures/18f8beccdca1ea129e453ac132d0ac75afde7a34.jpg)
+![photo-fan.jpg](figures/photo-fan.jpg)
 
 
 

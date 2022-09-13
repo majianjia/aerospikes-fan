@@ -42,8 +42,6 @@ The core of the fan is powered by the tool head fan of [Bambu Lab X1C](https://b
 
 ![photo-fan.jpg](figures/photo-fan.jpg)
 
-
-
 ### Compressor
 
 Compressor compresses the air flow and maintained a high pressure difference in the internal chamber. The compressor is consist of a ring of static blades. 
@@ -107,7 +105,7 @@ A steady and thin air flow, following the aerospike nozzle are the essential fac
 
 I don't know exact reason of the flow separate before the tip of aeropsike, it looks like relate to the thickness of the exhaust air ring and the velocity of exhaust air flow. But the early separation slow down the air around the tip and eliminate the second speed boost. It also create a bubble of turbulence around the tip which expend the ring of the high velocity flow instead of merge. 
 
-The flow separation is also caused by the rotation around the nozzle, which wont be an issue because the actually model has more fins to stop the residual rotation after the compressor. This is a bad example due to insufficient compressor design. 
+The flow separation is also caused by the rotation around the nozzle, which wont be an issue because the actually model has more fins to stop the residual rotation after the compressor. This is a bad example due to insufficient compressor design that cannot stop the spinning air.  When the air flow close to the tip with the reducing radius, the rotation speed increased, result in the the air flow separated and turbulence.
 
 ![sim-flow-separation.png](figures/sim-flow-separation.png)
 

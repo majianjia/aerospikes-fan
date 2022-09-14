@@ -87,7 +87,7 @@ As the airflow goes forward, the ring is getting smaller and smaller near the ti
 
 Because the air move so quickly around the nozzle surface, the pressure decreases and the static air around the nozzle is pulled by the high velocity flow. So the steam is scale up  multiple times. 
 
-The result of the fan is a narrow and high velocity air stream which can be point at an exact location. 
+The result of the fan is a narrow and high velocity air stream which can be pointed at an exact location. 
 
 ![sim-aerospike-speed2.png](figures/sim-aerospike-speed2.png)
 
@@ -105,13 +105,19 @@ A steady and thin air flow, following the aerospike nozzle are the essential fac
 
 I don't know exact reason of the flow separate before the tip of aeropsike, it looks like relate to the thickness of the exhaust air ring and the velocity of exhaust air flow. But the early separation slow down the air around the tip and eliminate the second speed boost. It also create a bubble of turbulence around the tip which expend the ring of the high velocity flow instead of merge. 
 
-The flow separation is also caused by the rotation around the nozzle, which wont be an issue because the actually model has more fins to stop the residual rotation after the compressor. This is a bad example due to insufficient compressor design that cannot stop the spinning air.  When the air flow close to the tip with the reducing radius, the rotation speed increased, result in the the air flow separated and turbulence.
+The flow separation is also caused by the rotation around the nozzle, which wont be an issue because the actually model has more fins to stop the residual rotation after the compressor. This is a bad example due to insufficient compressor design that cannot stop the spinning air.  When the air flow close to the tip with the reducing radius, the rotation speed increased, result in the the air flow separated and turbulence. As you could see from the simulation, rotational motion. 
 
 ![sim-flow-separation.png](figures/sim-flow-separation.png)
 
 ### Ratio of flow volume and pressure
 
-The fan rotation, intake area, exhaust ring area are critical to affect the pressure difference, the thickness of exhaust ring and so the exhaust air velocity. 
+The fan rotation, intake area, exhaust ring area are critical to affect the pressure difference, the thickness of exhaust ring and so the exhaust air velocity.  However, it is hard to tune. 
+
+The nozzle is adjustable, as it is fixed by the fins and there are a large screw hole that can be screw into the fan holder. 
+
+![model-exhaust.png](figures/8d514a0a1e240424ab3e2b02e1149a354235453c.png)
+
+
 
 ## Simulation
 

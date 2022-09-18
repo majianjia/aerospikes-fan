@@ -115,7 +115,7 @@ The fan rotation, intake area, exhaust ring area are critical to affect the pres
 
 The nozzle is adjustable, as it is fixed by the fins and there are a large screw hole that can be screw into the fan holder. 
 
-![model-exhaust.png](figures/8d514a0a1e240424ab3e2b02e1149a354235453c.png)
+![model-exhaust.png](figures/model-exhaust.png)
 
 ## Simulation
 

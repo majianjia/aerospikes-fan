@@ -117,11 +117,9 @@ The nozzle is adjustable, as it is fixed by the fins and there are a large screw
 
 ![model-exhaust.png](figures/8d514a0a1e240424ab3e2b02e1149a354235453c.png)
 
-
-
 ## Simulation
 
-I have done 8 CFD using Simscale, a cloud based Computational Fluid Dynamics platform. The free community plan has 10 successful simulation limit. Barely enough if you don't count fail simulations, such as once i did not spin the fan... 
+I have done 8 CFD simulation on Simscale, a cloud based Computational Fluid Dynamics platform. The free community plan has 10 successful simulation limit. Barely enough if you don't count fail simulations, such as once i did not spin the fan... 
 
 ![community-plan-out.png](figures/community-plan-ran-out.png)
 

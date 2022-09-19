@@ -50,6 +50,9 @@ Compressor compresses the air flow and maintained a high pressure difference in 
 
 2. While high velocity air flows into the compressor, it goes through a expansion channel, with the direction change dramatically. The velocity will drop while the pressure increased dramatically. (Convert the kinetic energy back to potential energy).
 
+Static compressor. 
+![compressor](figures/model-compressor.png)
+
 An example of pressure gradient increased when passing by the compressor, at 5000rpm. (its a pity that the software couldn't show X and Y velocity magnitude but only a single axis, cannot visualize the velocity here. )
 
 ![sim-pressure-gradiant.png](figures/sim-pressure-gradient.png)

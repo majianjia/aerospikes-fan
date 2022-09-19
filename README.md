@@ -1,6 +1,6 @@
 # Aerospike Fan
 
-A blade-less fan powered by Bambu Lab X1 toolhead turbo. The name "Aerospike Fan" comes from the aerospike nozzle. 
+A blade-less fan powered by Bambu Lab X1 toolhead turbine. The name "Aerospike Fan" comes from the aerospike nozzle. 
 
 ![model-fan-animation2.gif](figures/model-fan-animation2.gif)
 
@@ -36,7 +36,7 @@ The answer is, no it isn't.
 
 ![model-digrams.png](figures/model-digrams.png)
 
-### Turbo Fan
+### Turbine Fan
 
 The core of the fan is powered by the tool head fan of [Bambu Lab X1C](https://bambulab.com/) 3d printer. It is a 5015 fan (5CM x 1.5 CM), rated at 24V 0.15A, quite a powerful fan. The centrifugal fan has 33 blades (if i counted that correctly.)
 
@@ -70,7 +70,7 @@ The turbulence will reduced near the nozzle.
 
 Accelerating channel is the opposite to the compressor, it convert high-pressure, low velocity air flow to low pressure high, velocity air flow.  
 
-> For a jet engine, here is the position of turbo fans
+> For a jet engine, here is the position of turbine fans
 
 In this channel, air pressure decrease while air speed increased dramatically. 
 

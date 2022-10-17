@@ -128,3 +128,7 @@ I have done 8 CFD simulation on Simscale, a cloud based Computational Fluid Dyna
 ![community-plan-out.png](figures/community-plan-ran-out.png)
 
 I am starting to worry my future CFD sims..
+
+
+
+But it is still hard to tell which parameter set is the best. For details please check the [Simscale project](https://www.simscale.com/projects/MossFromIT/a_fan/). 

@@ -2,7 +2,7 @@
 
 A blade-less fan powered by Bambu Lab X1 toolhead turbine. The name "Aerospike Fan" comes from the aerospike nozzle. 
 
-File share [3D models](https://a360.co/3NycFHY), [CFD result](https://www.simscale.com/workbench/?pid=5860528454362025889&mi=spec%3A18f0a4a9-9c32-4959-9247-dc1f00069115%2Cservice%3ASIMULATION%2Cstrategy%3A47)
+File share [3D models](https://a360.co/3NycFHY), [CFD result](https://www.simscale.com/workbench/?pid=5860528454362025889&mi=spec%3A18f0a4a9-9c32-4959-9247-dc1f00069115%2Cservice%3ASIMULATION%2Cstrategy%3A47), [Printable](https://www.printables.com/model/329538-aerospike-fan-powered-by-bambu-lab-x1s-toolhead-tu)
 
 ![model-fan-animation2.gif](figures/model-fan-animation2.gif)
 
